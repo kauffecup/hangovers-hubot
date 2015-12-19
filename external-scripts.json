@@ -2,9 +2,5 @@
   "hubot-diagnostics",
   "hubot-hamilton",
   "hubot-help",
-  "hubot-google-translate",
-  "hubot-maps",
-  "hubot-redis-brain",
-  "hubot-rules",
-  "hubot-shipit"
+  "hubot-redis-brain"
 ]
